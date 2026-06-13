@@ -31,13 +31,13 @@ AI Engineer • Focusing on LLMs and Agentic Systems • ML Enthusiast
 ### 📊 GitHub Stats
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&border_color=58A6FF"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=lehanvats&show_icons=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&border_color=58A6FF"/>
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=transparent&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border=58A6FF"/>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=lehanvats&theme=transparent&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border=58A6FF"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent&title_color=58A6FF&text_color=c9d1d9&border_color=58A6FF"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehanvats&layout=compact&theme=transparent&title_color=58A6FF&text_color=c9d1d9&border_color=58A6FF"/>
 </p>
 
 ---
