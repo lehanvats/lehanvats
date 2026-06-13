@@ -53,6 +53,5 @@ AI Engineer • Focusing on LLMs and Agentic Systems • ML Enthusiast
 
 ### Let's Connect
 
-LinkedIn: https://linkedin.com/in/lehan-vats
----
+LinkedIn: https://linkedin.com/in/lehan-vats  
 Email: lehancodes@gmail.com
