@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Lehan Vats! 👋</h1>
+<h1 align="center">Hi there, I'm Lehan Vats! </h1>
 
 <div align="center">
 
@@ -12,7 +12,7 @@ AI Engineer • Focusing on LLMs and Agentic Systems • ML Enthusiast
 
 ---
 
-### 🧠 Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,linux,git,docker,aws,vscode"/>
@@ -28,7 +28,7 @@ AI Engineer • Focusing on LLMs and Agentic Systems • ML Enthusiast
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=lehanvats&show_icons=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&border_color=58A6FF&hide_rank=true"/>
@@ -42,15 +42,15 @@ AI Engineer • Focusing on LLMs and Agentic Systems • ML Enthusiast
 
 ---
 
-### 🌱 Currently Learning & Exploring
+### Currently Learning & Exploring
 
-• **Agentic AI & LLMs:** Building intelligent, autonomous workflows and analyzing how tools like CodeRabbit leverage underlying language models.
-• **Neural Networks:** Experimenting with deep learning and specialized architectures like Siamese Neural Networks.
-• **Machine Learning Pipelines:** End-to-end ML model training, evaluation, and deploying intelligent systems.
-• **AI Security:** Ensuring robust AI applications and studying the intersection of machine learning and system vulnerabilities.
+* **Agentic AI & LLMs:** Building intelligent, autonomous workflows and analyzing how different harnesses leverage underlying language models.
+* **Neural Networks:** Experimenting with deep learning and specialized architectures like ResNet and distilBERT.
+* **Machine Learning Pipelines:** End-to-end ML model training, evaluation on real world problems.
+* **AI Security:** Ensuring robust AI applications and building an autonomous penetration testing tool
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 LinkedIn: https://linkedin.com/in/lehan-vats
