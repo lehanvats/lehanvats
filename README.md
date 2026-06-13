@@ -15,7 +15,7 @@ AI Engineer • Focusing on LLMs and Agentic Systems • ML Enthusiast
 ### Tech Stack & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,linux,git,docker,aws,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,linux,github,docker,vscode"/>
 </p>
 
 <p align="center">
